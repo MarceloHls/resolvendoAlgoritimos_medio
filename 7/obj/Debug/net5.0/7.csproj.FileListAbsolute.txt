@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.AssemblyInfo.cs
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.exe
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.deps.json
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.runtimeconfig.json
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.runtimeconfig.dev.json
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.dll
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\ref\7.dll
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\bin\Debug\net5.0\7.pdb
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.dll
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\ref\7.dll
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.pdb
+C:\Users\marce\Desktop\Portifolio\apreender\resolvendoAlgoritimos_medio\7\obj\Debug\net5.0\7.genruntimeconfig.cache
